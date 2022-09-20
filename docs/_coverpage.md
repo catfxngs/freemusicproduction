@@ -3,7 +3,7 @@
   Free Music Production
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-themeable-quickstart.svg)](https://github.com/catfxngs/freemusicproduction/releases/tags)
+[![GitHub tag](https://img.shields.io/github/v/release/catfxngs/freemusicproduction?include_prereleases)](https://github.com/catfxngs/freemusicproduction/releases/tags)
 
 > An instructional resource for beginners.
 
